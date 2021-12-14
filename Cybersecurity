@@ -1,2 +1,0 @@
-# bybersecurity
-Cyber defense
